@@ -9,7 +9,7 @@
 		<version>2.7.1</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.satoruakiyama</groupId>
+	<groupId>com.suraj</groupId>
 	<artifactId>employee-management-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>employee-management-system</name>

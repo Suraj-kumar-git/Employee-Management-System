@@ -1,4 +1,4 @@
-package com.satoruakiyama.employeemanagementsystem;
+package com.suraj.employeemanagementsystemTest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

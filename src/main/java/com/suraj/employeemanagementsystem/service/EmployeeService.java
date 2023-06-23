@@ -1,12 +1,12 @@
-package com.satoruakiyama.employeemanagementsystem.service;
+package com.suraj.employeemanagementsystem.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.satoruakiyama.employeemanagementsystem.domain.Employee_Management_System;
-import com.satoruakiyama.employeemanagementsystem.repository.EmployeeRepository;
+import com.suraj.employeemanagementsystem.domain.Employee_Management_System;
+import com.suraj.employeemanagementsystem.repository.EmployeeRepository;
 
 @Service // This means that this class is a service
 public class EmployeeService {
